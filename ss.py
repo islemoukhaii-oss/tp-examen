@@ -5,3 +5,4 @@ notes=[10,15,8,18,12]
 print(moyenne(notes))
 print(note_max(notes))
 print(note_min(notes))
+print("fonction")
